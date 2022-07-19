@@ -1,5 +1,6 @@
 # C or C++ Practice problems with solutions for beginners
-This contains all the practice questions that I've solved while I was learning C &amp; C++. These are simple cs lab level questions designed to test your skills. This repo. can be useful for beginner and intermediate level C or C++ programmers. I have just uploaded the code. For detailed explaination
+This contains all the practice questions that I've solved while I was learning C &amp; C++. These are simple cs lab level questions designed to test your skills. This repo. can be useful for beginner and intermediate level C or C++ programmers. I have just uploaded the code. For detailed explaination visit my <a href="https://vishruthcodes.blogspot.com/">blog</a>. The C or C++ programs are easily inter-convertible by replacing the printf/scanf with cout/cin and vice versa and such. It shouldn't be much difficult to convert them. 
+If you felt the repository useful, do star the repo, and give a follow. It would mean a lot to me.
 
 Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/add.cpp">
