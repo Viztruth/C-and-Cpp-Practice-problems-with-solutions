@@ -3,8 +3,7 @@ This repo. contains all the practice questions that I've solved while I was lear
 If you felt the repository was useful, do star the repo, and give a follow. It would mean a lot to me.<br>
 If there are any errors, do mention them <a href="https://vishruthcodes.blogspot.com/p/contact-us.html">here</a>.
 
-💡 Note: ✅ Button indicates that I have given a detailed explanation for the program in my blog. Click on the button for detailed explanation.
-
+💡 Note: ✅ Button indicates that I have given a detailed explanation for the program in my blog.
 Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/add.cpp">
     1. Addition of 2 numbers using template function | C++
@@ -22,7 +21,7 @@ Problems -<br>
     5. Creation of Rectangle class | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/additionofnnos.cpp">
-    6. Addition of n continuous numbers using template function | C++
+    6. Addition of n continuous numbers using template function | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/factorialusingrecursion.cpp">
     7. Factorial of a number using recursion | C++
@@ -34,7 +33,7 @@ Problems -<br>
     9. Static array vs dynamic array | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/itr.cpp">
-    10. Converting integers into expanded form | C++
+    10. Converting integers into expanded form | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/mergearray.cpp">
     11. Merge 2 arrays | C++
@@ -52,7 +51,7 @@ Problems -<br>
     15. Reversing an array | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/rng.cpp">
-    16. Random number generator | C++
+    16. Random number generator | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/roman.cpp">
     17. Integer to roman number converter | C++
@@ -61,29 +60,29 @@ Problems -<br>
     18. Check whether array is sorted | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/stonepaperscissor.cpp">
-    19. Simple stone paper scissor game | C++
+    19. Simple stone paper scissor game | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/string.cpp">
-    20. Displaying your name using strings | C++
+    20. Displaying your name using strings | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/studentdetailsusingclasses.cpp">
     21. Student details using classes | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/sumpro.cpp">
-    22. Finding the 3 consecutive nos. in A.P. given their sum and product | C++
+    22. Finding the 3 consecutive nos. in A.P. given their sum and product | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     23. Function to swap 2 nos. without 3rd variable | C++
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/tables.cpp">
-    24. Multiplication tables generator | C++
+    24. Multiplication tables generator | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/vmopaap.cpp">
-    25. Different ways of passing arrays as parameters to a function| C++
+    25. Different ways of passing arrays as parameters to a function| C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/union.cpp">
-    26. Union of arrays - Set operations | C
+    26. Union of arrays - Set operations | C ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/union.c%2B%2B">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Union of arrays - Set operations | C++
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Union of arrays - Set operations | C++ ✅
 </a><br>
