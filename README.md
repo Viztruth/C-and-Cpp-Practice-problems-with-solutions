@@ -85,5 +85,5 @@ Problems -<br>
     26. Union of arrays - Set operations | C
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/union.c%2B%2B">
-        Union of arrays - Set operations | C++
+        &nbsp;Union of arrays - Set operations | C++
 </a><br>
