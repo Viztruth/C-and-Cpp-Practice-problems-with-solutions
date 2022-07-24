@@ -53,6 +53,9 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/rng.cpp">
     16. Random number generator | C++ ✅
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/randomnogenerator.c">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Random number generator | C ✅
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/roman.cpp">
     17. Integer to roman number converter | C++
 </a><br>
@@ -76,6 +79,9 @@ Problems -<br>
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/tables.cpp">
     24. Multiplication tables generator | C++ ✅
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/tables.c">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiplication tables generator | C ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/vmopaap.cpp">
     25. Different ways of passing arrays as parameters to a function| C++ ✅
