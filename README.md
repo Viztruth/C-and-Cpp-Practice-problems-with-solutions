@@ -79,4 +79,6 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/vmopaap.cpp">
     25. Different ways of passing arrays as parameters to a function| C++
 </a><br>
-
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/union.cpp">
+    26. Union of arrays - Set operations | C
+</a><br>
