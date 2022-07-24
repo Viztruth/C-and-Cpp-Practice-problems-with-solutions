@@ -3,6 +3,8 @@ This repo. contains all the practice questions that I've solved while I was lear
 If you felt the repository was useful, do star the repo, and give a follow. It would mean a lot to me.<br>
 If there are any errors, do mention them <a href="https://vishruthcodes.blogspot.com/p/contact-us.html">here</a>.
 
+💡 Note: ✅ Button indicates that I have given a detailed explanation for the program in my blog. Click on the button for detailed explanation.
+
 Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/add.cpp">
     1. Addition of 2 numbers using template function | C++
