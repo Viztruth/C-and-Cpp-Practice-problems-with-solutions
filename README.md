@@ -93,3 +93,14 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/union.c%2B%2B">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Union of arrays - Set operations | C++ ✅
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/intersection.cpp">
+    27. Intersection of arrays - Set operations | C++ ✅
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/setdiff.cpp">
+    28. Set difference of arrays - Set operations | C++ ✅
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingelementsusinghashing.c">
+    29. Finding the mssing natural numbers using Hashing  | C ✅
+</a><br>
+
+
