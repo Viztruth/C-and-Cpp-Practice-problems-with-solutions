@@ -100,7 +100,10 @@ Problems -<br>
     28. Set difference of arrays - Set operations | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingelementsusinghashing.c">
-    29. Finding the mssing natural numbers using Hashing  | C ✅
+    29. Finding the missing natural numbers using Hashing | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingnaturalelements.c">
+    30. Finding the missing natural numbers | C
 </a><br>
 
 
