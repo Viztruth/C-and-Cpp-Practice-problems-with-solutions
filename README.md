@@ -105,5 +105,7 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingnaturalelements.c">
     30. Finding the missing natural numbers | C
 </a><br>
-
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingnaturalelements.c">
+    31. Deleting duplicate elements from an array | C++
+</a><br>
 
