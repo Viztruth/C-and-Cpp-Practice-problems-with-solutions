@@ -26,8 +26,8 @@ void rmvedupli(int a[], int &n)
 
 int main()
 {
-    int ar[10]={9,4,8,1,4,4,5,8,7,1};
-    printf("\nThe array: 9,4,8,1,4,4,5,8,7,1");
+    int ar[10]={9,6,10,3,6,6,7,10,9,3};
+    printf("\nThe array: 9,6,10,3,6,6,7,10,9,3");
     int n=sizeof(ar)/sizeof(ar[0]);
     rmvedupli(ar,n);
     cout<<"\nThe array is: ";
