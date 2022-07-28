@@ -80,5 +80,6 @@ int main()
         cout<<"\nInvalid Input";
         exit(0);
     }
+    return 0;
 }
 
