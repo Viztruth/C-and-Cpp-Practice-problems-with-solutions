@@ -1,56 +1,62 @@
+//program to check whether the sorted array is in arithmetic progression
+//or geometric progression by Vishruth Codes
 #include<iostream>
 #include<math.h>
 using namespace std;
 
-int checks(int ar[], int n)
+int checksap(int ar[], int n)
 {
-int sub,count=0;
-sub=ar[1]-ar[2];
+int sub,countap=0;
+//Check for a.p.
+sub=ar[1]-ar[0];
 for(int i=2;i<n;i++)
 {
     if((ar[i]-ar[i-1])!=sub)
     {
-        count++;
+        countap++;
     }
 }
-if(count==0)
+if(countap<1)
 {
-    return 0;
-    exit(1);
+    cout<<"\nThe array is in A.P.";
 }
+}
+
+int checksgp(int ar[], int n)
+{
+int countgp=0;
+//check for g.p.
 int div=ar[1]%ar[0];
 for(int i=2;i<n;i++)
 {
     if((ar[i]%ar[i-1])!=div)
     {
-        count++;
+        countgp++;
     }
 }
-if(count==0)
+if(countgp<1)
 {
-    return 1;
-    exit(1);
+    cout<<"\nThe array is in G.P.";
 }
-return 3;
 }
 
 int main()
 {
-    int seq[4],res,n;
-    cout<<"\nEnter n: ";
+    int res,n;
+    cout<<"\nEnter size of array: ";
     cin>>n;
-    cout<<"\nEnter the first 4 terms of the sequence: ";
-    for(int i=0;i<4;i++)
+    int seq[n];
+    cout<<"\nEnter the "<<n<<" terms of the sequence: ";
+    for(int i=0;i<n;i++)
     {
         cin>>seq[i];
     }
-    res=checks(seq,n);
-    cout<<"\nThe following sequence is in: ";
-    if(res==0)
-        cout<<"Arithmetic Progression.";
-    else if(res==1)
-        cout<<"Geometric progression.";
-    //else if(res==2)
-        //cout<<"Harmonic Progression.";
-    else cout<<"\nNot in any progression";
+    cout<<"\nThe array: ";
+    for(int i=0;i<n;i++)
+    {
+        cout<<seq[i]<<", ";
+    }
+    checksap(seq,n);
+    checksgp(seq,n);
+    return 0;
 }
