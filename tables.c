@@ -19,4 +19,5 @@ int main()
     printf("\nEnter the ending range: ");
     scanf("%d",&erange);
     tables(n,srange,erange);
+    return 0;
 }
