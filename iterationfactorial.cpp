@@ -3,14 +3,10 @@ using namespace std;
 
 int facto(int n)
 {
-    int f;
-    if(n==0)
+    int f=1;
+    for(int i=1;i<=n;i++)
     {
-        return 1;
-    }
-    else
-    {
-        f=n*facto(n-1);
+        f=f*i;
     }
     return f;
 }
