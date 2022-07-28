@@ -134,4 +134,5 @@ if(cspts>=plrpts)
 else{
     cout<<"\nThe result is - Congratulations! "<<name<<" WINS THE GAME";
 }
+    return 0;
 }
