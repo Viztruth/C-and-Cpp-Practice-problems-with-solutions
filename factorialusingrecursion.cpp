@@ -1,4 +1,4 @@
-//Factorial of a no. using recursion
+//Factorial of a no. using recursion by Vishruth Codes
 #include<iostream>
 using namespace std;
 
@@ -20,4 +20,5 @@ int main()
     cin>>n;
     fact=facto<int>(n);
     cout<<"\nThe factorial is: "<<fact;
+    return 0;
 }
