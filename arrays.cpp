@@ -1,3 +1,4 @@
+//Creation of a dynamic array and insertion of natural numbers equal to the size of the array and display of it by Vishruth Codes
 #include<iostream>
 using namespace std;
 
