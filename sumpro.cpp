@@ -23,4 +23,5 @@ int main()
     cout<<"\nEnter the product of those 3 terms: ";
     cin>>pro;
     solve(sum,pro);
+    return 0;
 }
