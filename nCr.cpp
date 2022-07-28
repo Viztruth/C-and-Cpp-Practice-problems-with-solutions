@@ -40,4 +40,6 @@ int main()
     }
     else
         cout<<"\nThe result is: "<<ncr(n,r);
+    
+    return 0;
 }
