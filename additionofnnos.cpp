@@ -21,4 +21,5 @@ int main()
     cin>>n;
     sum=sums<int>(n);
     cout<<"\nThe sum is: "<<sum;
+    return 0;
 }
