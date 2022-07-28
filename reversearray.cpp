@@ -1,3 +1,4 @@
+//Program to reverse an array
 #include<iostream>
 using namespace std;
 
@@ -28,4 +29,5 @@ int main()
     {
         cout<<a[i]<<" ";
     }
+    return 0;
 }
