@@ -1,3 +1,4 @@
+//Program to check whether the array's sorted
 #include<iostream>
 using namespace std;
 
@@ -32,4 +33,5 @@ int main()
     {
         cout<<"\nThe array isn't sorted.";
     }
+    return 0;
 }
