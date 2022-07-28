@@ -20,4 +20,5 @@ int main()
     cin>>erange;
     cout<<"\n";
     tables(n,srange,erange);
+    return 0;
 }
