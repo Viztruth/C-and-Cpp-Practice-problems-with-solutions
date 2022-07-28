@@ -1,3 +1,4 @@
+//Program to define member f'n of a class outside a class
 #include<iostream>
 using namespace std;
 
@@ -54,5 +55,5 @@ int main()
         cout<<"\nThe area is: "<<r[i].area();
         cout<<"\nThe perimeter is: "<<r[i].perimeter();
     }
-
+return 0;
 }
