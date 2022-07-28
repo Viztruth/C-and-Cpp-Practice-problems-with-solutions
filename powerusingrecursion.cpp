@@ -1,3 +1,4 @@
+//Program to find the power of a number using recursion by Vishruth codes
 #include<iostream>
 using namespace std;
 
@@ -22,4 +23,5 @@ int main()
     cin>>base>>pow;
     res=power<int>(base,pow);
     cout<<"\n"<<base<<" raised to power "<<pow<<" is: "<<res;
+    return 0;
 }
