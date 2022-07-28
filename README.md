@@ -27,6 +27,9 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/factorialusingrecursion.cpp">
     7. Factorial of a number using recursion | C++
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/iterationfactorial.cpp">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Factorial of a number using iteration | C++
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/fibonacci.cpp">
     8. Generating fibonacci sequence using recursion | C++
 </a><br>
