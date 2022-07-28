@@ -1,4 +1,4 @@
-//C++ Program to delete duplicate from the array
+//Program to delete duplicate from the array by Vishruth Codes
 #include<iostream>
 using namespace std;
 
@@ -35,4 +35,5 @@ int main()
     {
         cout<<ar[i]<<", ";
     }
+   return 0;
 }
