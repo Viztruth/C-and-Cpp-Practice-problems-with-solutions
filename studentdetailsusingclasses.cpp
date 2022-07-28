@@ -68,4 +68,5 @@ for(int i=0;i<n;i++)
     cout<<"\n\nThe total marks scored by the student is: "<<s[i].total();
     cout<<"\nThe Percentage: "<<s[i].percentage();
 }
+    return 0;
 }
