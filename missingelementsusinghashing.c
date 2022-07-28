@@ -10,10 +10,10 @@ void hashing(int ar[], int n, int h)
     {
         arr[i]=0;
     }
-    //for 'arr',insert 1 at indexes equal to value of elements in 'ar'
+    //for 'arr',increment by 1 at indexes equal to value of elements in 'ar'
     for(int j=0;j<n;j++)
         {
-            arr[ar[j]]=1;
+            arr[ar[j]]++;
         }
     //The missing elements in 'ar' are the indices with element 0 stored in it.
     printf("\nThe missing elements are: ");
@@ -33,4 +33,5 @@ int main()
     int h=16;//largest element
     int n=sizeof(ar)/sizeof(ar[0]);
     hashing(ar,n,h);
+    return 0;
 }
