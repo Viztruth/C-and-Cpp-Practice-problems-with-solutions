@@ -81,4 +81,5 @@ int main()
         printf("\nInvalid Input");
         exit(1);
     }
+    return 0;
 }
