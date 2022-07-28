@@ -9,4 +9,5 @@ int main()
     cout<<"\nEnter your name: ";
     getline(cin, name);
     cout<<"\nGreetings, "<<name<<"!";
+    return 0;
 }
