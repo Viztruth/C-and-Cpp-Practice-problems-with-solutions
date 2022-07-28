@@ -30,4 +30,5 @@ int main()
         printf("%d, ",ar[i]);
     }
     missi(ar,n);
+    return 0;
 }
