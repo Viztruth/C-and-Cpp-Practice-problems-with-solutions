@@ -1,3 +1,4 @@
+//Exploring different methods of passing parameters to functions by Vishruth Codes
 #include<iostream>
 using namespace std;
 
@@ -36,4 +37,5 @@ switch(n)
         break;
     }
 }
+return 0;
 }
