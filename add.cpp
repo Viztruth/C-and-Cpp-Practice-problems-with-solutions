@@ -53,5 +53,6 @@ int main()
         cout<<"Invalid Input";
         exit(0);
         }
-    }  
+    } 
+    return 0;
 }
