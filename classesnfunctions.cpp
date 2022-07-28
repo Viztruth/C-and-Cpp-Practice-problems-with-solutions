@@ -29,4 +29,5 @@ int main()
     cin>>l>>b;
     Rectangle r(l,b);
     cout<<"\nThe area and perimeter of the rectangle is: "<<r.area()<<", "<<r.peri()<<".";
+    return 0;
 }
