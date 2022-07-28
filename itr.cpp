@@ -15,10 +15,6 @@ int lengthofinteger(int n)
 }
 
 //Function to split the integer into digits and store them in array at position corresponding to its power of 10.
-//Example: 12345 is split into its digits 5,4,3,2,1 (*read the function) and stored an array named 'split' (split[]={5,4,3,2,1})
-//  The position of each element is in accordance with power of 10 in the expanded form i.e. 
-//  Take the element 5 in the above example, it's position in the array is '0' (split[0]) 
-//  which is corresponding to it's position 'ones' (...x10 + 5x1) in the expanded form of the integer 12345 (as 5x10^0=5x1).
 void breakdown(int n,int len, int split[])
 {
     int rem;
@@ -61,4 +57,5 @@ int main()
             cout<<split[i]<<"x"<<mul;
         }
     }
+    return 0;
 }
