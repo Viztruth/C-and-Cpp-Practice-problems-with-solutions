@@ -29,4 +29,5 @@ int main()
     cout<<"\nEnter the number: ";
     cin>>n;
     fib<int>(n);
+    return 0;
 }
