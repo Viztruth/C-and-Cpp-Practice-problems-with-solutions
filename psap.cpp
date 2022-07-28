@@ -2,37 +2,45 @@
 #include<iostream>
 using namespace std;
 
-struct rectangle
+int passbyvalue(int l, int r)
 {
-    int len;
-    int bre;
-};
+    return l*r;
+}
 
+int passbyaddress(int *l,int *r)
+{
+    return (*l)*(*r);
+}
+
+int passbyreference(int &l, int &b)
+{
+    return l*b;
+}
+    
 int main()
 {
-int n, are;
-struct rectangle r;
+int n, are,l,b;
 cout<<"\nEnter the length: ";
-cin>>r.len;
+cin>>l;
 cout<<"\nEnter the breadth: ";
-cin>>r.bre;
+cin>>b;
 cout<<"\nHow do you wanna calculate the area (the results are same for all): ";
 cout<<"\n\n1. pass by value\n2. pass by address\n3. pass by reference\n:- ";
 cin>>n;
 switch(n)
 {
     case 1:{
-        are = passbyvalue(r);
+        are = passbyvalue(l,b);
         cout<<"\nThe area is: "<<are;
         break;
     }
     case 2:{
-        are = passbyaddress(&r);
+        are = passbyaddress(&l,&b);
         cout<<"\nThe area is: "<<are;
         break;
     }
     case 3:{
-        are = passbyreference(r);
+        are = passbyreference(l,b);
         cout<<"\nThe area is: "<<are;
         break;
     }
