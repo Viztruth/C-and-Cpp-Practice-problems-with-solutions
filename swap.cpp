@@ -22,5 +22,5 @@ int main()
     swap(&a,&b);
     cout<<"\n\nAfter calling swap, the value of a & b in main() is: "<<a<<" "<<b;
     cout<<"\nThe address of variables within main() function is: "<<&a<<" "<<&b;
+   return 0;
 }
-
