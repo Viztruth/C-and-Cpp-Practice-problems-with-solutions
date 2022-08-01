@@ -106,6 +106,12 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/missingnaturalelements.c">
     • Finding the missing natural numbers | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/duplicount.c">
+    • Finding the no. of duplicate elements in the array | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/duplicounthash.c">
+    • Finding the no. of duplicate elements in the array using hashing | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/dupliremove.cpp">
     • Deleting duplicate elements from an array | C++
 </a><br>
