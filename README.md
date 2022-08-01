@@ -131,3 +131,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/vowelconsonant.c">
     • Count Vowels and consonants in a string | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/words.c">
+    • Count no. of words in a string | C
+</a><br>
