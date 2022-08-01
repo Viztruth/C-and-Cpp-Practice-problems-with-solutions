@@ -42,6 +42,9 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/mergearray.cpp">
     • Merge 2 arrays | C++
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/insertdelete.c">
+    • Insert or Delete element fro the array | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/nCr.cpp">
     • nCr Combinations | C++
 </a><br>
@@ -65,6 +68,9 @@ Problems -<br>
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/sortcheck.cpp">
     • Check whether array is sorted | C++
+</a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/sortedornot.c">
+    • Check whether array is in ascending or descending order | C
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/stonepaperscissor.cpp">
     • Simple stone paper scissor game | C++ ✅
