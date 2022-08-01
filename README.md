@@ -73,6 +73,9 @@ Problems -<br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/roman.cpp">
     • Integer to roman number converter | C++
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/vowelconsonant.c">
+    • Count Vowels and consonants in a string | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/sortcheck.cpp">
     • Check whether array is sorted | C++
 </a><br>
