@@ -23,4 +23,5 @@ int main()
         }
     }
     printf("\nThe no. of vowels and consonants is: %d, %d",vcount, ccount);
+    return 0;
 }
