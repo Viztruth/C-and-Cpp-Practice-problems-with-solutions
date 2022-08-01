@@ -6,7 +6,8 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 
 💡 Note: ✅ Button indicates that I have given a detailed explanation for the program in my <a href="https://vishruthcodes.blogspot.com/">blog</a>.
 
-Problems -<br>
+<h2>Solved Problems:</h2>
+<strong>⭐ Arrays and other related Operations ⭐</strong><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
 </a><br>
@@ -27,9 +28,6 @@ Problems -<br>
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/tables.c">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multiplication tables generator | C ✅
-</a><br>
-<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/string.cpp">
-    • Displaying your name using strings | C++ ✅
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/factorialusingrecursion.cpp">
     • Factorial of a number using recursion | C++
@@ -72,9 +70,6 @@ Problems -<br>
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/roman.cpp">
     • Integer to roman number converter | C++
-</a><br>
-<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/vowelconsonant.c">
-    • Count Vowels and consonants in a string | C
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/sortcheck.cpp">
     • Check whether array is sorted | C++
@@ -126,4 +121,13 @@ Problems -<br>
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/studentdetailsusingclasses.cpp">
     • Student details using classes | C++
+</a><br>
+
+
+<br><strong>⭐ Strings ⭐</strong><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/string.cpp">
+    • Displaying your name using strings | C++ ✅
+</a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/vowelconsonant.c">
+    • Count Vowels and consonants in a string | C
 </a><br>
