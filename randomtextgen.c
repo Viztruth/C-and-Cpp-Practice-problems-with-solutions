@@ -39,4 +39,5 @@ int main()
         //type-conversion from int to string
         printf("%c",text[i]);
     }
+    return 0;
 }
