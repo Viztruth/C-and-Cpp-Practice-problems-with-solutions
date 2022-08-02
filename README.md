@@ -137,3 +137,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/randomtextgen.c">
     • Captcha text generator (Random text generator) | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/palindrome.c">
+    • Check whether the given string is a palindrome | C
+</a><br>
