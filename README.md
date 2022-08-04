@@ -150,5 +150,5 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 
 <br><strong>⭐ Matrices ⭐</strong><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix.c">
-    • Create and display diagonal matrix | C 
+    • Create and display diagonal matrix using 1D array | C 
 </a><br>
