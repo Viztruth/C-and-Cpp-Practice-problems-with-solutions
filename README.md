@@ -152,3 +152,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix.c">
     • Create and display diagonal matrix using 1D array | C 
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix2d.c">
+    • Create and display diagonal matrix using 2D array | C 
+</a><br>
