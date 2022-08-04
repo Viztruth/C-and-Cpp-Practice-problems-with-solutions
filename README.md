@@ -134,6 +134,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/words.c">
     • Count no. of words in a string | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/stringasparam.c">
+    • Passing string as parameter to a function | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/randomtextgen.c">
     • Captcha text generator (Random text generator) | C
 </a><br>
