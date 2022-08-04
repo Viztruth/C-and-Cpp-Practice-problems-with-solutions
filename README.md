@@ -164,3 +164,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/upperTriMatrix2d.c">
     • Create and display upper triangular matrix using 2D array | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/symmetricmatrixup2d.c">
+    • Create and display symmetric matrix via upper triangular matrix using 2D array | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/symmetricmatrix2d.c">
+    • Create and display symmetric matrix via lower triangular matrix using 2D array | C
+</a><br>
