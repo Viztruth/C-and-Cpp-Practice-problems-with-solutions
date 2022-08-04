@@ -1,4 +1,4 @@
-//Program to create and display lower triangular matrix using 2d array
+//Program to create and display upper triangular matrix using 2d array
 //Vishruth codes
 #include<stdio.h>
 
