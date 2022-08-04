@@ -58,7 +58,7 @@ int main()
     struct matrix m;
     printf("\nEnter the dimension: ");
     scanf("%d",&m.n);
-    //count of non zerp elements in a lower triangular matrix is sum of
+    //count of non zero elements in a upper triangular matrix is sum of
     //first n terms of dimension
     int totele=((m.n)*(m.n+1))/2;
     int str[totele];
