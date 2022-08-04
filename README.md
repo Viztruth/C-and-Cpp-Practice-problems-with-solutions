@@ -117,10 +117,10 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
     • Creation of a linked list to store unique elements from an array | C
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/classesnfunctions.cpp">
-    • Creation of Rectangle class | C++
+    • Creation of Rectangle class | C++ [Classes and objects]
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/studentdetailsusingclasses.cpp">
-    • Student details using classes | C++
+    • Student details using classes | C++ [Classes and objects]
 </a><br>
 
 
@@ -154,4 +154,7 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix2d.c">
     • Create and display diagonal matrix using 2D array | C 
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix2d.cpp">
+    • Create and display diagonal matrix using 2D array | C++ [Classes and objects]
 </a><br>
