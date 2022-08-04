@@ -146,3 +146,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/anagram.c">
     • Check whether the strings are anagram or not | C
 </a><br>
+
+
+<br><strong>⭐ Matrices ⭐</strong><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix.c">
+    • Create and display diagonal matrix | C 
+</a><br>
