@@ -158,9 +158,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/diagonalmatrix2d.cpp">
     • Create and display diagonal matrix using 2D array | C++ [Classes and objects]
 </a><br>
-<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/lowerTriMatrix2d.cpp">
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/lowerTriMatrix2d.c">
     • Create and display lower triangular matrix using 2D array | C
 </a><br>
-<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/upperTriMatrix2d.cpp">
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/upperTriMatrix2d.c">
     • Create and display upper triangular matrix using 2D array | C
 </a><br>
