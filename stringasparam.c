@@ -17,4 +17,5 @@ int main()
     printf("\nEnter the string: ");
     gets(str);
     displaystr(str,n);
+    return 0;
 }
