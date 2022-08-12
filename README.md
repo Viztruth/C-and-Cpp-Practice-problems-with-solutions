@@ -173,3 +173,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/addmatrix.c">
     • Program to add two matrices and store the result in third matric | C
 </a><br>
+
+
+<br><strong>⭐ Linked List ⭐</strong><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/readArrayIntoLL.c">
+    • Program to read array into singly linked list | C
+</a><br>
