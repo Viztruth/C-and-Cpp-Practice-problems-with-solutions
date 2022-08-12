@@ -179,3 +179,7 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/readArrayIntoLL.c">
     • Program to read array into singly linked list | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/arrayll.c">
+    • Display the elements of singly linked list using recursion | C
+</a><br>
+
