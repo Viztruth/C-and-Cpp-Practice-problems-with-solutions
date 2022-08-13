@@ -113,9 +113,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/dupliremove.cpp">
     • Deleting duplicate elements from an array | C++
 </a><br>
-<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/removeduplicates.c">
-    • Creation of a linked list to store unique elements from an array | C
-</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/classesnfunctions.cpp">
     • Creation of Rectangle class | C++ [Classes and objects]
 </a><br>
@@ -184,4 +181,7 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/lengthofll.c">
     • Basic Insert, Delete, Display, Length operations on  Singly Linked list | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/removeduplicates.c">
+    • Creation of a linked list to store unique elements from an array | C
 </a><br>
