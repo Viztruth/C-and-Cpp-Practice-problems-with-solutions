@@ -7,7 +7,7 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 💡 Note: ✅ Button indicates that I have given a detailed explanation for the program in my <a href="https://vishruthcodes.blogspot.com/">blog</a>.
 
 <h2>Solved Problems:</h2>
-<strong>⭐ Arrays and other related Operations ⭐</strong><br>
+<strong>⭐ Arrays and Recursion ⭐</strong><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
 </a><br>
