@@ -32,7 +32,7 @@ void display()
     printf("\nThe array into SLL: ");
     struct node *p;
     p=root;
-    while(p)
+    while(p) //=> while(p!=NULL)
     {
         printf("%d -> ",p->data);
         p=p->next;
