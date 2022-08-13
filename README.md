@@ -11,6 +11,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-Cpp-Practice-problems-with-solutions/blob/main/swap.c">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function to swap 2 nos. without 3rd variable | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/insertintoarray.cpp">
     • Static array vs dynamic array | C++
 </a><br>
