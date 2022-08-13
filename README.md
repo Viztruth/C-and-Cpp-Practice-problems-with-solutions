@@ -185,3 +185,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/removeduplicates.c">
     • Creation of a linked list to store unique elements from an array | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/sumofelementsll.c">
+    • Sum of all the elements of a singly linked list | C
+</a><br>
