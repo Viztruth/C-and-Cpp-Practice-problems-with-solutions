@@ -203,3 +203,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/insertintosortedll.c">
     • Insert into sorted linked list | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/checksllsorted.c">
+    • Program to check whether the S.L.L. is sorted or not | C
+</a><br>
