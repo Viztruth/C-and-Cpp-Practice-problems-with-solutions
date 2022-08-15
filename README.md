@@ -212,3 +212,6 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/revsllusingarray.c">
     • Program to reverse the S.L.L. using an array | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/revsll.c">
+    • Program to reverse the S.L.L. by reversing the links | C
+</a><br>
