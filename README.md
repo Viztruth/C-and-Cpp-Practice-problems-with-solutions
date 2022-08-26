@@ -125,6 +125,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 
 
 <br><strong>⭐ Strings ⭐</strong><br>
+<a href="https://www.geeksforgeeks.org/taking-string-input-space-c-3-different-methods/">
+    ℹ️ Alternate methods of taking string inputs (GfG) 
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/string.cpp">
     • Displaying your name using strings | C++ ✅
 </a><br>
