@@ -8,6 +8,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 
 <h2>Solved Problems:</h2>
 <strong>⭐ Arrays, Functions and Recursion ⭐</strong><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/decimalprecision.c">
+    • Setting decimal precision to 'n' decimal places | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
 </a><br>
