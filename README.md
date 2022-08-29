@@ -158,6 +158,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/tokenizestring.c">
     • Tokenize a string | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/stringnumberfreq.c">
+    • Program to print the frequency of digits in a string of alphabets and numbers | C
+</a><br>
 
 
 <br><strong>⭐ Matrices ⭐</strong><br>
