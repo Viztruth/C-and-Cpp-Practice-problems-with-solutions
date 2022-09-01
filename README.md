@@ -23,6 +23,12 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/suminrange.c">
     • Sum of digits of a number in given range | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/primeno.c">
+    • Check whether prime or not | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/primenoinrange.c">
+    • Print the prime numbers in a given range | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
 </a><br>
