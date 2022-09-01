@@ -11,8 +11,17 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/decimalprecision.c">
     • Setting decimal precision to 'n' decimal places | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/positiveornot.c">
+    • Determine whether positive or negative number | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/evenorodd.c">
+    • Determine odd or even | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/sumofdigits.c">
     • Sum of digits of a number | C
+</a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/suminrange.c">
+    • Sum of digits of a number in given range | C
 </a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/swap.cpp">
     • Function to swap 2 nos. without 3rd variable | C++
