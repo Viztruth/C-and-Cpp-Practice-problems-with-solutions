@@ -18,4 +18,5 @@ int main()
     {
         printf("\nThe number is negative.");
     }
+    return 0;
 }
