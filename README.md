@@ -74,6 +74,9 @@ If you have any questions, doubts related to the code, don't hesitate to ask the
 <a href="https://github.com/Vishruthh/C-and-Cpp-Practice-problems-with-solutions/blob/main/insertdelete.c">
     • Insert or Delete element from the array | C
 </a><br>
+<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/euclidshcf.c">
+    • Program to implement Euclid's Algorithm for computing GCD | C
+</a><br>
 <a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/nCr.cpp">
     • nCr Combinations | C++
 </a><br>
