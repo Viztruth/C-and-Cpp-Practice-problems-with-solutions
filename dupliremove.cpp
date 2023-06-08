@@ -1,39 +1,92 @@
 //Program to delete duplicate from the array by Vishruth Codes
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-//parameter 'n' is passed by reference
-void rmvedupli(int a[], int &n)
+class Arrays
 {
-   for(int i=0;i<n;i++)
-   {
-    for(int j=i+1;j<n;j++)
+public:
+    int n;
+    // hardcoding the size of array. 'n' is useless
+    int arr[5];
+
+    // calling constructor to initialize all elements to zero
+    Arrays()
     {
-        if(a[i]==a[j])
+        for (int i = 0; i < n; i++)
         {
-            //cout<<"\n"<<a[i]<<" matched with "<<a[j];
-            for(int k=j;k<n-1;k++)
-            {
-                a[k]=a[k+1];
-            }
-            j--;
-            n--;
+            arr[i] = 0;
         }
     }
-   }
 
-}
+    // member function to insert elements into the array
+    void insertion()
+    {
+        cout << "\nInsert the elements: ";
+        for (int i = 0; i < n; i++)
+        {
+            cin >> arr[i];
+        }
+    }
+    // sorting via bubble sort
+    void bubblesort()
+    {
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int j = 0; j < n - 1; j++)
+            {
+                if (arr[j] > arr[j + 1])
+                {
+                    int temp = arr[j];
+                    arr[j] = arr[j + 1];
+                    arr[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    // member function to remove the duplicates
+    void removedupli()
+    {
+        bubblesort();
+        int now = arr[0];
+        for (int i = 1; i < n; i++)
+        {
+            if (arr[i] != now)
+            {
+                now = arr[i];
+            }
+            else
+            {
+                for (int j = i; j < n - 1; j++)
+                {
+                    arr[j] = arr[j + 1];
+                }
+                n--;
+                i--;
+            }
+        }
+    }
+
+    // member function to display the contents of the array
+    void display()
+    {
+        for (int i = 0; i < n; i++)
+        {
+            cout << arr[i] << ", ";
+        }
+    }
+};
 
 int main()
 {
-    int ar[10]={9,6,10,3,6,6,7,10,9,3};
-    printf("\nThe array: 9,6,10,3,6,6,7,10,9,3");
-    int n=sizeof(ar)/sizeof(ar[0]);
-    rmvedupli(ar,n);
-    cout<<"\nThe array is: ";
-    for(int i=0;i<n;i++)
-    {
-        cout<<ar[i]<<", ";
-    }
-   return 0;
+    Arrays a;
+    cout << "\nEnter the size: ";
+    cin >> a.n;
+    a.insertion();
+    cout << "\nThe array is: ";
+    a.display();
+    a.removedupli();
+    cout << "\nthe array after removing the duplicates: ";
+    a.display();
+    return 0;
 }
