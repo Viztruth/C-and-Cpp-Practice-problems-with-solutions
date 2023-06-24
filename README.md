@@ -1,4 +1,9 @@
 # C or C++ Practice problems with solutions for beginners
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/515469196/c171d6b3-3851-4c74-9bfa-d46a98cd0aa4" width="400" alt="Golang">
+</p>
+
 Well curated repo. containing all the practice questions that I've solved while I was learning C and C++. These are simple C.S. lab-level questions designed to test your skills. This repo. can be useful for beginner and intermediate-level C or C++ programmers. I have just uploaded the code along with questions topicwise. For the ones that I felt a detailed explanation was necessary, I have given it in my <a href="https://vishruthcodes.blogspot.com/">blog</a>. You can check that if you want. For the rest, the code is self-explanatory. <br>The C or C++ programs are easily inter-convertible by replacing the printf/scanf with cout/cin and vice versa and such, it shouldn't be much difficult to convert.</br>This repository will be regularly updated to include new problems I've solved or errors that I've resolved.</br>
 <b>If you felt the repository was useful, do star the repo, and give a follow. It would mean a lot to me.</b><br>
 
